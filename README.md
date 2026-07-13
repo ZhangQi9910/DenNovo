@@ -254,7 +254,6 @@ If you use DenNovo in academic work, please cite:
 
 > Zhang, Q. et al. DenNovo: an accurate and robust physics-informed denoising network for de novo peptide sequencing (2026).
 
-Update this section with the journal citation and DOI after publication.
 
 ## Contact
 
