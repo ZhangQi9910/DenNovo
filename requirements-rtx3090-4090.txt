@@ -1,0 +1,4 @@
+-r requirements.txt
+tensorflow>=2.5.0
+tensorflow-addons
+pandas>=0.20

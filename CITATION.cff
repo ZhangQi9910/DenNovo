@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use DenNovo, please cite the associated manuscript."
+type: software
+title: "DenNovo: an accurate and robust physics-informed denoising network for de novo peptide sequencing"
+version: 1.0.0
+date-released: 2026-07-13
+authors:
+  - family-names: Zhang
+    given-names: Qi
+  - family-names: Wang
+    given-names: Yu-Hang
+  - family-names: Wang
+    given-names: Zhi-Hui
+  - family-names: Yu
+    given-names: Xuan
+  - family-names: Luo
+    given-names: Xu-Dong
+  - family-names: Yu
+    given-names: Dong-Jun
+    email: njyudj@njust.edu.cn
