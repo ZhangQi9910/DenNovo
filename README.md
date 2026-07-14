@@ -257,4 +257,4 @@ If you use DenNovo in academic work, please cite:
 
 ## Contact
 
-Correspondence regarding the method may be addressed to Dong-Jun Yu (`njyudj@njust.edu.cn`).
+For questions about the method or implementation, please contact the corresponding author listed in the manuscript or open an issue in the project repository.
